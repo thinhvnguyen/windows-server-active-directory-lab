@@ -17,3 +17,5 @@ I also used the Window Server to set up a domain controller as mylab.local domai
 <img width="958" height="599" alt="Screenshot 2026-04-03 140841" src="https://github.com/user-attachments/assets/97c411be-7761-44d6-8735-fbc77b8aa72f" />
 
 <img width="959" height="599" alt="Screenshot 2026-04-03 142724" src="https://github.com/user-attachments/assets/9269ce71-2398-4b80-95a6-1c5a97e656e2" />
+
+This allowed the server to manage user accounts, computer, security groups, and domain authentication from one central location. AD DS became the core used throughout the lab for managing access, organization, and security.
