@@ -21,3 +21,6 @@ In these screenshots, I created a test user account to explore the different acc
 Using Windows Server, I have set up four OUs namely IT, HR, Engineering, and Sales. After that, I created user accounts and assigned each user account to the corresponding OU based on the department of the individual.
 
 ---
+
+<img width="959" height="599" alt="hrdept" src="https://github.com/user-attachments/assets/5bfa69b4-f47b-4662-9634-565f45ab89fa" />
+Additionally, security groups were created per each department in order to have a more convenient access management. There were such groups as IT-Staff, HR-Staff, Engineering-Staff, and Sales-Staff where every user was assigned to the corresponding group according to their department. In this way, it became possible to assign access permissions to a group rather than do it separately for each user. Security groups were used since they made the lab experience more realistic and showed how companies usually manage access to relevant data.
