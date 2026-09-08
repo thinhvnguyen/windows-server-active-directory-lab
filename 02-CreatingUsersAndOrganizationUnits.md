@@ -13,3 +13,11 @@ For certain users, I could also configure their accounts to require a password c
 In these screenshots, I created a test user account to explore the different account and password settings available when creating users in Active Directory.
 
 ---
+---
+
+<img width="509" height="385" alt="creating_organization_unit" src="https://github.com/user-attachments/assets/c621ef02-923e-4e3c-b9c4-ceb142a760c6" />
+<img width="509" height="384" alt="new_groups_new_users" src="https://github.com/user-attachments/assets/2c4682e5-8e3e-401a-935a-901f09122b97" />
+
+Using Windows Server, I have set up four OUs namely IT, HR, Engineering, and Sales. After that, I created user accounts and assigned each user account to the corresponding OU based on the department of the individual.
+
+---
