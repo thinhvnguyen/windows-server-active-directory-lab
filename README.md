@@ -15,6 +15,7 @@ Throughout the project, I configured Active Directory Domain Services, DNS, orga
 This lab also gave me experience troubleshooting networking, authentication, permissions, and domain connectivity issues.
 
 ## Lab Environment
+<img width="607" height="305" alt="Screenshot 2026-04-03 130722" src="https://github.com/user-attachments/assets/3973dd93-f3fd-4b7c-a64e-b3b0407895d3" />  
 
 - **Hypervisor:** Oracle VirtualBox
 - **Server OS:** Windows Server 2022
@@ -24,9 +25,6 @@ This lab also gave me experience troubleshooting networking, authentication, per
 - **Client Computer:** `ITPC1`
 
 ## Project Documentation
-
-### [00 - Introduction](00-Introduction.md)
-Overview of the lab environment, goals, and technologies used.
 
 ### [01 - Server Manager](01_ServerManager.md)
 Windows Server setup, installation of Active Directory Domain Services, DNS, and domain controller configuration.
