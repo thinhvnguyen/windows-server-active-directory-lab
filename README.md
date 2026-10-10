@@ -14,15 +14,6 @@ Throughout the project, I configured Active Directory Domain Services, DNS, orga
 
 This lab also gave me experience troubleshooting networking, authentication, permissions, and domain connectivity issues.
 
-## Lab Environment
-
-- **Hypervisor:** Oracle VirtualBox
-- **Server OS:** Windows Server 2022
-- **Client OS:** Windows 11
-- **Domain:** `mylab.local`
-- **Server Roles:** Active Directory Domain Services (AD DS), DNS
-- **Client Computer:** `ITPC1`
-
 ## Project Documentation
 
 ### [00 - Introduction](00-Introduction.md)
