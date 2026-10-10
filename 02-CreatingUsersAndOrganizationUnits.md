@@ -1,4 +1,4 @@
-## Organizational Units and User Accounts
+## Organizational Units, Security Groups, and User Accounts
 
 After setting up Active Directory, I created Organizational Units (OUs) to organize users and computers by department. The main OUs in the lab included IT, HR, Engineering, Sales, and IT-Computers. These OUs make the Active Directory environment easier to manage and also allow Group Policy settings later on in the lab to be applied to specific users or computers.
 
