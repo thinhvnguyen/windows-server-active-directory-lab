@@ -11,9 +11,9 @@ I configured the Windows Server VM to use a Bridged Adapter in VirtualBox. This 
 With bridge adapter, it allowed the Windows 11 client and Windows Server to reach each other.
 
 _ _ _ 
-
-ipconfig displays the network settings of the computer, including the IP address, subnet mask, and default gateway. In your lab, it showed the Windows Server using the IPv4 address 10.0.0.79. This was important because the Windows 11 client needed that server address for communication and DNS.
 <img width="509" height="386" alt="ipconfig" src="https://github.com/user-attachments/assets/57db752f-5765-4894-86d9-924c78a38e57" />
+ipconfig displays the network settings of the computer, including the IP address, subnet mask, and default gateway. In your lab, it showed the Windows Server using the IPv4 address 10.0.0.79. This was important because the Windows 11 client needed that server address for communication and DNS.
+
 
 Then, I used ping from the Windows 11 client to test connectivity to the server at 10.0.0.79. The test returned four successful replies with no packet loss. This confirmed that the client and server could communicate over the network.
 <img width="1024" height="766" alt="window11_ping" src="https://github.com/user-attachments/assets/7a18141c-a528-49c9-bf30-f7cb4ef1cae2" />
