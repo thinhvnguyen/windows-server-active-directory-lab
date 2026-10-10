@@ -1,4 +1,4 @@
-## File Sharing and Permissions
+## File Sharing, Permissions, and Access Testing
 
 I created shared department folders on the Windows Server and configured access using both share permissions and NTFS permissions. Security groups such as IT-Staff were used to control which users could read or modify each folder. I then tested the permissions from the Windows 11 client to confirm that authorized users could access the share while unauthorized users were denied.
 _ _ _ 
@@ -24,3 +24,12 @@ _ _ _
 <img width="959" height="599" alt="received on the other end" src="https://github.com/user-attachments/assets/2653176d-67a7-4e06-94f5-38769bea2d28" />
 
 And here, we can see that the file was successfully received on the other end, confirming that the shared folder and permissions were working correctly.
+
+_ _ _
+I also tested access using a user from a different department who was not authorized to use the IT shared folder. For example, an HR user who was not a member of the IT-Staff security group attempted to open the IT department share and received an Access Denied message. This confirmed that the folder permissions were working as intended, because only users in the IT department security group could access and modify the contents of the IT share.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/eb4612ac-b991-47c7-9633-3d04ddb60cab" />
+- - -
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4a5457fe-6b46-4756-8e4e-a0de9f744f4c" />
+
+
