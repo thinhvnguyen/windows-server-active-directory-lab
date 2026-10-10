@@ -24,3 +24,9 @@ Using Windows Server, I have set up four OUs namely IT, HR, Engineering, and Sal
 
 <img width="959" height="599" alt="hrdept" src="https://github.com/user-attachments/assets/5bfa69b4-f47b-4662-9634-565f45ab89fa" />
 Additionally, security groups were created per each department in order to have a more convenient access management. There were groups such as IT-Staff, HR-Staff, Engineering-Staff, and Sales-Staff where every user was assigned to the corresponding group according to their department. In this way, it became possible to assign access permissions to a group rather than do it separately for each user. Security groups were used since they made the lab experience more realistic and showed how companies usually manage access to relevant data.
+
+<img width="511" height="388" alt="securitygroupadd" src="https://github.com/user-attachments/assets/35eba0b4-c54b-48b5-8c98-666b41446c3c" />
+This screenshot shows a user being added to a department security group. Adding users to groups makes it easier to manage permissions because access can be assigned to the group instead of to each person individually. This is commonly used in Active Directory environments to simplify user access management.
+
+<img width="509" height="386" alt="part1" src="https://github.com/user-attachments/assets/4cdad833-49d2-4681-bd6b-b91d9f5e574b" />
+This screenshot shows the HR department structure with users and the HR security group. The HR users were placed into the correct group so they could receive department-specific permissions. This demonstrates how Active Directory can organize users and manage access based on department membership.
