@@ -12,6 +12,8 @@ With bridge adapter, it allowed the Windows 11 client and Windows Server to reac
 
 _ _ _ 
 <img width="509" height="386" alt="ipconfig" src="https://github.com/user-attachments/assets/57db752f-5765-4894-86d9-924c78a38e57" />
+
+
 ipconfig displays the network settings of the computer, including the IP address, subnet mask, and default gateway. In your lab, it showed the Windows Server using the IPv4 address 10.0.0.79. This was important because the Windows 11 client needed that server address for communication and DNS.
 
 
